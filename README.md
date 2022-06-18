@@ -1,7 +1,7 @@
 # cleanArchiectureapp
 
 
-<img src="screenShot_cleanApp/1.jpeg" width="20%"></img>
+<img src="screenShot_cleanApp/1.jpg" width="20%"></img>
 
 ![3](https://user-images.githubusercontent.com/26741217/174449599-ab98e375-e18d-4826-9cb3-efef7b1d7aa7.jpg)
 
