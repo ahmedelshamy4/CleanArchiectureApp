@@ -1,7 +1,8 @@
-# cleanArchiectureapp
 
 ## Posts Clean Arch App
+
 <p># Posts app is built with clean architecture pattern with Bloc state management.</P>
+
 <P># I took care of SOLID principles and Clean code principles.</P>
 
 <p> 📸 Clean Architecture Pattern Series</p>
