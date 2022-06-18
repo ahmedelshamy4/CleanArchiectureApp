@@ -1,10 +1,8 @@
 # cleanArchiectureapp
 
 
+<img src="screenShot _cleanApp/clean_arch_life_cycle.png" width="50%"></img>
 <img src="screenShot _cleanApp/1.jpg" width="20%"></img>
+<img src="screenShot _cleanApp/2.jpg" width="20%"></img>
+<img src="screenShot _cleanApp/3.jpg" width="20%"></img>
 
-![3](https://user-images.githubusercontent.com/26741217/174449599-ab98e375-e18d-4826-9cb3-efef7b1d7aa7.jpg)
-
-![1](https://user-images.githubusercontent.com/26741217/174449600-6474c4d4-6330-40fd-9603-ed12671a9439.jpg)
-
-![2](https://user-images.githubusercontent.com/26741217/174449603-079d949d-67c2-41a0-b157-c119b6fb6fb9.jpg)
