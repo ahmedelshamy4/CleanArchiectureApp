@@ -1,7 +1,7 @@
 # cleanArchiectureapp
 
 
-![clean_arch_life_cycle](https://user-images.githubusercontent.com/26741217/174449583-a8176101-08b3-4d47-b6a8-3729cf6cb3a7.png)
+<img src="screenShot_cleanApp/1.jpeg" width="20%"></img>
 
 ![3](https://user-images.githubusercontent.com/26741217/174449599-ab98e375-e18d-4826-9cb3-efef7b1d7aa7.jpg)
 
